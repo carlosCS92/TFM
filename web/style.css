@@ -1,0 +1,71 @@
+
+.formulario
+{
+	align: center;
+	text-align: center;
+	border: 3px solid #DDDDDD;
+	padding-top: 1%;
+	width:285;
+	height:160;
+	border-radius: 22px;
+	box-shadow: 15px 15px 30px #654;
+	position: absolute;
+	left: 38%;
+	top: 18%;
+ 
+}
+
+.usuarios
+{
+	align: center;
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+	text-align: center;
+	width:100%;
+	
+}
+
+.button
+{
+	width: 15%;
+}
+
+.ubications
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 5px;
+	text-align: center;
+}
+
+.user
+{
+	padding-top: 10%;
+	
+}
+
+.todas
+{
+	background-color: #66ccff;
+}
+
+h2
+{
+	text-align: center;
+	font-size: 30px;
+}
+th{
+	border: 1px solid white;
+	background-color: black;
+	font-size: 20px;
+	color: white;
+}
+td
+{
+	border: 1px solid black;
+}
+
+
+
+
