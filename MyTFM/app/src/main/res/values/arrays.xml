@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="restext">
+        <item>"Java"</item>
+        <item>"C"</item>
+        <item>"Profesor infantil"</item>
+        <item>"Profesor primaria"</item>
+        <item>"Python"</item>
+        <item>"C++"</item>
+        <item>"Seguros"</item>
+        <item>"MongoDB"</item>
+        <item>"Banca"</item>
+        <item>"Programación web"</item>
+        <item>"Inglés"</item>
+        <item>"R"</item>
+        <item>"C#"</item>
+        <item>"SQL"</item>
+        <item>"Android/IOS"</item>
+        <item>"Francés"</item>
+        <item>"Trabajo en equipo"</item>
+        <item>"Data Mining"</item>
+        <item>"UML"</item>
+        <item>"SCRUM"</item>
+        <item>"Unity"</item>
+    </array>
+
+</resources>
